@@ -1,0 +1,15 @@
+{
+    "name": "danepowell/blt-example-plugin",
+    "authors": [
+        {
+            "name": "Dane Powell",
+            "email": "git@danepowell.com"
+        }
+    ],
+  "require": {},
+  "autoload": {
+        "psr-4": {
+            "BltExamplePlugin\\": "./src/"
+        }
+    }
+}
